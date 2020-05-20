@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484634700356",
+    "firebase_url": "https://fattyapp-d572c.firebaseio.com",
+    "project_id": "fattyapp-d572c",
+    "storage_bucket": "fattyapp-d572c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484634700356:android:a6fa5726a354bc8315aa11",
+        "android_client_info": {
+          "package_name": "com.mosquiot.android.fatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484634700356-rksc4cl8jmpdf6khvuli02ad906f8jlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtH8vpE7hb8Wro4wUZjnPXyprUV6ca2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484634700356-rksc4cl8jmpdf6khvuli02ad906f8jlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
